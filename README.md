@@ -53,7 +53,7 @@ python app.py
 
 ## 🌐 Live Demo
 
-📍 
+📍 https://huggingface.co/spaces/Vineetha00/stock-price-predictor
 ✅ Launches a shareable web UI using Gradio.
 
 ---
